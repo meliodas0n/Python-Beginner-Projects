@@ -34,4 +34,8 @@ while win == False and intial_turns <= int(turns):
 
     print("Sorry!! Your out of turns!!\n")
     print("Try again next time\n")
+    
+    
+print("The random number is \n")
+print(random_number)
 
